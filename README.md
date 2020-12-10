@@ -8,3 +8,4 @@
 * supposed to be a drop-in replacement for '<std::sort>', use call 'pdqsort' instead of std::sort
 * if the comparison funtion is brachless call '
 
+'<asdfsdfasdf'>
